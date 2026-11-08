@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Цвета плотности кода -->
+    <color name="qr_simple">#FF2E7D32</color>
+    <color name="qr_medium">#FFF9A825</color>
+    <color name="qr_dense">#FFC62828</color>
+    <color name="qr_error">#FF757575</color>
+</resources>

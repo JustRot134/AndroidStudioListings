@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QrCode</string>
+    <string name="title">Генератор QR-кода</string>
+    <string name="hint_text">Текст или ссылка</string>
+    <string name="btn_create">Создать QR-код</string>
+    <string name="qr_description">QR-код</string>
+</resources>
