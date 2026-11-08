@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title">Конвертер валют</string>
+    <string name="hint_rubles">Сумма в рублях</string>
+    <string name="btn_usd">$ USD</string>
+    <string name="btn_eur">€ EUR</string>
+    <string name="btn_cny">¥ CNY</string>
+    <string name="btn_kzt">₸ KZT</string>
+    <string name="rates_note">Курсы условные — для учебного примера</string>
+</resources>
