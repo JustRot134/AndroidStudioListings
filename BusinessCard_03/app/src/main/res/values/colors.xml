@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Цвета визитки -->
+    <color name="card_background">#C0C4D0</color>
+    <color name="primary">#303F9F</color>
+    <color name="text_secondary">#151C44</color>
+    <color name="divider">#5497B9</color>
+</resources>

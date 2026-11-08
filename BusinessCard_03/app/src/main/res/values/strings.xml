@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Борис Сыроедов</string>
+    <string name="profession">Web-разработчик</string>
+    <string name="phone">+7 990 880 32 64</string>
+    <string name="email">boris.Siroedov@example.com</string>
+    <string name="city">г. Омск</string>
+    <string name="avatar_description">Фото владельца визитки</string>
+    <string name="btn_save">Сохранить контакт</string>
+    <string name="msg_saved">Контакт сохранён!</string>
+</resources>
