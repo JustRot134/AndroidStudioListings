@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coin Game</string>
+    <string name="title">Орёл и решка</string>
+    <string name="btn_roll">Бросить</string>
+    <string name="coin_description">Монетка</string>
+    <string name="press_roll">Нажми «Бросить»</string>
+    <string name="roll_count">Бросков: 0</string>
+    <string name="heads_count">Орлов: 0</string>
+    <string name="tails_count">Решек: 0</string>
+</resources>
