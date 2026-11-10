@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="title">Игральные кубики</string>
+    <string name="btn_roll">Бросить</string>
+    <string name="dice_description">Кубик</string>
+    <string name="press_roll">Нажми «Бросить»</string>
+    <string name="roll_count">Бросков: 0</string>
+    <string name="brace_count">Дублей: 0</string>
+</resources>
