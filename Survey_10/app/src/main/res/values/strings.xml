@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="title">Анкета участника</string>
+    <string name="hint_name">Имя</string>
+    <string name="section_age">Возраст</string>
+    <string name="age_under18">до 18</string>
+    <string name="age_18_25">18–25</string>
+    <string name="age_over25">старше 25</string>
+    <string name="section_interests">Интересы</string>
+    <string name="interest_sport">Спорт</string>
+    <string name="interest_music">Музыка</string>
+    <string name="interest_games">Игры</string>
+    <string name="interest_books">Книги</string>
+    <string name="section_city">Город</string>
+    <string name="subscribe">Подписаться на новости</string>
+    <string name="btn_send">Отправить</string>
+
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+        <item>Новосибирск</item>
+        <item>Другой</item>
+    </string-array>
+</resources>

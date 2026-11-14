@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Размеры, которые повторяются на экране -->
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="section_margin">20dp</dimen>
+    <dimen name="text_title">26sp</dimen>
+    <dimen name="text_section">18sp</dimen>
+</resources>
