@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title">Вход</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="forgot">Забыли пароль?</string>
+    <string name="register">Нет аккаунта? Зарегистрироваться</string>
+    <string name="lock_description">Замок</string>
+</resources>
