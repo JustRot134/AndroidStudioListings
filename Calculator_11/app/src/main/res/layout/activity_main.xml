@@ -132,12 +132,26 @@
                 android:text="+" />
         </LinearLayout>
 
-        <Button
-            android:id="@+id/btnEquals"
-            style="@style/CalcButton"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:text="=" />
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnErase"
+                style="@style/CalcButton"
+                android:text="⌫" />
+
+            <Button
+                android:id="@+id/btnDivide100"
+                style="@style/CalcButton"
+                android:text="%" />
+
+            <Button
+                android:id="@+id/btnEquals"
+                style="@style/CalcButton"
+                android:text="=" />
+        </LinearLayout>
     </LinearLayout>
 </LinearLayout>
