@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Product</string>
+    <string name="btn_next">Следующий</string>
+    <string name="btn_past">Предыдущий</string>
+    <string name="btn_add">В корзину</string>
+    <string name="btn_clear">Очистить корзину</string>
 </resources>
