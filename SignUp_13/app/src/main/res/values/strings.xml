@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <string name="title">Регистрация</string>
+    <string name="hint_name">Имя</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_age">Возраст</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_repeat">Повтори пароль</string>
+    <string name="btn_signup">Зарегистрироваться</string>
+</resources>
