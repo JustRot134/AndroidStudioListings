@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quick Actions</string>
+    <string name="title">Быстрые действия</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="hint_url">Адрес сайта</string>
+    <string name="hint_text">Текст, которым поделиться</string>
+    <string name="btn_call">Позвонить</string>
+    <string name="btn_open">Открыть</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="btn_map">Показать на карте Красную площадь</string>
+    <string name="btn_pick_photo">Выбрать фото</string>
+    <string name="photo_description">Выбранное фото</string>
+</resources>
