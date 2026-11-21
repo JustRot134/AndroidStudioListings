@@ -3,6 +3,7 @@ package com.example.contacts
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.contacts.databinding.ItemContactBinding
 
 class ContactAdapter(private val contacts: List<Contact>) :
     RecyclerView.Adapter<ContactAdapter.ContactViewHolder>() {
